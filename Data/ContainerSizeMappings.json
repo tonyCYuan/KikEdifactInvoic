@@ -1,0 +1,19 @@
+{
+  "ContainerSizes": [
+    {
+      "KsmartContainerSize": "20SD",
+      "Description": "20' STANDARD CONTAINER",
+      "KikContainerSize": "20GE"
+    },
+    {
+      "KsmartContainerSize": "40SD",
+      "Description": "40' STANDARD CONTAINER",
+      "KikContainerSize": "40GE"
+    },
+    {
+      "KsmartContainerSize": "40HD",
+      "Description": "40' HIGH CUBE",
+      "KikContainerSize": "40HC"
+    }
+  ]
+}
